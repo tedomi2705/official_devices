@@ -1,0 +1,19 @@
+This is Android 14 with April 2024 QPR2 (r30) security patches
+
+Notes:
+==============================
+- You need to flash your device region HyperOS firmware before the ROM.
+- Clean flash/format data is required.
+- Install KSU boot.img for root.
+- Play Integrity passes by default (As of 04/07/2024).
+- Includes Dolby Atmos, POCO camera.
+- Credits to GR, Chaitanya, Adrianyyyy.
+
+Device changes:
+==============================
+Switch to LOS trees
+
+Notable ROM changes:
+==============================
+Initial Android 14 QPR2 release
+Merge April security patches
